@@ -1,1 +1,1 @@
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=vermuzui&theme=<THEME_NAME>" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermuzui&show_icons=true&theme=radical)
